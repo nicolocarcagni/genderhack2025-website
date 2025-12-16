@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-image: url("about_sfondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  margin: 0;
+}
+
+.about {
+  max-width: 900px;
+  margin: 140px auto 60px auto;
+  padding: 3rem;
+
+  font-family: Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #212529;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+
+  border-radius: 18px;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.3);
+}
+
