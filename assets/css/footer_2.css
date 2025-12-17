@@ -1,0 +1,17 @@
+body {
+  padding-top: 70px;
+}
+
+
+.site-footer {
+  background-color: #000;
+  color: #f8f9fa;
+}
+
+.site-footer a {
+  color: #adb5bd;
+}
+
+.site-footer a:hover {
+  color: #ffffff;
+}
